@@ -1,0 +1,14 @@
+Package: coldendr
+Maintainer: 'Andreas Leha' <andreas.leha@med.uni-goettingen.de>
+Author: 'Andreas Leha'
+Version: 1.0
+License: GPL-3
+Title: Colorize Braches in Dendrograms
+Description: Take a dendrogram and specify a number of branches.  This
+    package can be used to colorize the top branches of the
+    dendrogram accordingly.
+Suggests:
+    testthat,
+    roxygen2
+Collate:
+    'coldendr-package.r'
